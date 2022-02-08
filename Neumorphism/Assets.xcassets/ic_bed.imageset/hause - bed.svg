@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <title>atom/icon/hause - bed</title>
+    <g id="atom/icon/hause---bed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <rect id="path" stroke="#242936" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x="1" y="12" width="22" height="7"></rect>
+        <rect id="path" stroke="#242936" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x="3" y="5" width="18" height="7"></rect>
+        <path d="M8,8 C9.1045695,8 10,8.8954305 10,10 L10,12 L10,12 L6,12 L6,10 C6,8.8954305 6.8954305,8 8,8 Z" id="path" stroke="#242936" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M16,8 C17.1045695,8 18,8.8954305 18,10 L18,12 L18,12 L14,12 L14,10 C14,8.8954305 14.8954305,8 16,8 Z" id="path" stroke="#242936" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <line x1="3" y1="19" x2="3" y2="21.6666667" id="path" stroke="#242936" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="21" y1="19" x2="21" y2="21.6666667" id="path" stroke="#242936" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+    </g>
+</svg>

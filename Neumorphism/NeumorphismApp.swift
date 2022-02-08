@@ -9,9 +9,10 @@ import SwiftUI
 
 @main
 struct NeumorphismApp: App {
+    @State private var email = ""
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SubscribeView(email: $email)
         }
     }
 }
